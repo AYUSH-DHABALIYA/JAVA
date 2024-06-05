@@ -1,0 +1,10 @@
+Q. What is DDL Interpreter?
+
+- DDL means Data Defination Language.
+
+- this SQL command is used to change the strucutre of table.
+
+- it contains queries like - CREATE - it is used create table or databse.
+                             ALTER - it is used to alter logical structure.
+                             TRUNCATE - it is used to remove all the data form the table.
+                             DROP - it is used to delete table from database.

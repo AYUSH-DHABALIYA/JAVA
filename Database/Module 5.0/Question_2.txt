@@ -1,0 +1,43 @@
+Q. What is Normalization ?
+
+- Normalization is used to reduce redundancy from database.
+
+- Normalization divides the large and lengthy tables into small tabels and make them connected to relation database.
+
+- Benefits of normalization is decrease usage of memory, convert large data into small data, reduce redundancy in the database.
+
+- Normalization works through different stage or we can say different series called Normal forms.
+
+- There are different types of normal forms.
+
+- Following are the various types of Normal forms : 
+     
+     => 1 NF 
+     => 2 NF
+     => 3 NF
+     => BCNF ( Boycee Codd's Normal form)
+     => 4 NF
+     => 5 NF
+
+=> 1NF - 1NF is basic level of normalization.
+      - each table should contain single value.
+      - and each column should be contain unqiue value.
+      - this used to eliminate duplicate data form the table.
+
+=> 2NF - 2NF is reduce =redundancy from database.
+       - In 2NF, in table every non-primary key column is depend on primary key on the individual table.
+       - In 2NF primary key  is neccessary.
+       - All non-primary key is depend on primary key.
+
+=> 3NF - 3NF is builds on 2NF and every non-primary key attribute is independent of each other.
+       - every non-primary key attribute is directly depend on primary key on that table.
+
+=> BCNF - Boycee Codd's Normal form is very stricter than 3NF.
+        - it's only allow candidate key.
+        - it means every non-primary key is only depend on candidate key.
+
+=> 4NF - 4NF is not allow any mutli-valued dependencies.
+
+=> 5NF - 5NF is highest level of normalization.
+       - it converts large tables into smaller tables.
+       - 5NF increase the intergrity of the database compare to other normal form. 

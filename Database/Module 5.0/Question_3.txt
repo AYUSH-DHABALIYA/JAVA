@@ -1,0 +1,53 @@
+Q. What is Difference between DBMS and RDBMS ? 
+
+
+-----------------     DBMS    ------------------- 
+                      
+- Fullform of DBMS is Database Managment System.
+
+- in DBMS data stores as file.
+
+- in DBMS stores as hierarchical form.
+
+- Normalization is not present in DBMS.
+
+- DBMS is not apply any type of security in data.
+
+- DBMS is used file to store data and there is no relation between in tables.
+
+- DBMS is needs credentials to access data.
+
+- DBMS does not support distributed database.
+
+- DBMS is generally for small data like single user.
+
+- Example of DBMS is xml, Oracle database, MS-access.
+
+
+
+ -------------------   RDBMS   -------------------
+
+ - Fullform of RDBMS is Relation Database Managment System.
+ 
+ - in RDBMS data sotres as table.
+
+ - in RDBMS data stores in table form like column contains names, id, number,address, etc. and raw contains the corresponding values.
+
+ - in RDBMS you can accessed multiple data at a same time.
+
+ - RDBMS supports the distributed database.
+
+ - RDBMS stores the data at higher level or we can say more data than DBMS.
+
+ - RDBMS supports the Normalization.
+
+ - to connect two tables their is foreign key is required and to use foreign key primary key is required.
+
+ - security level is compare to DBMS is high.
+
+ - it's support the multiple user.
+
+ - Example of RDBMS MySQL, SQL, etc.
+ 
+
+

@@ -1,0 +1,10 @@
+Q. What is DML Compiler in SQL?
+
+- DML means Data Manipulation Language.
+
+- this SQl command is used to change data in table.
+
+- it contais queries like - Insert - it is used to insert data in table.
+                            UPDATE - it is used to update any data in table.
+                            DELETE - it is used to delete any data from the database or table.
+                            

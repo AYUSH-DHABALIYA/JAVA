@@ -1,0 +1,21 @@
+Q. What do you understand by Database ?
+
+-  there are multiple datas of multiple user, to store that data somewhere in cloud.
+
+-  Database is generally used to store data.
+
+-  in Database data stored as table.
+
+-  database is collection of data that stored multiple information.
+
+-  database managed by DBMS Database Managment System.
+
+-  this need access to enter any database.
+
+-  database refers the data in structured form.
+
+-  data stores in database likes names, id, phone number, address, etc.
+
+-  data means company's information, bank details, user information, credentials of user, etc is used to store in Database.
+
+-  

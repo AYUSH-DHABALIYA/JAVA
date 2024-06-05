@@ -1,0 +1,18 @@
+Q. What is SQL Key Constraints writing an Example of SQL Key Constraints
+
+- There is only three key constraints in SQL.
+    1.PRIMARY
+    2.UNIQUE
+    3.FOREIGN
+
+    1.PRIMARY KEY - primary key is unique and not null.
+                    this key must be have any value.
+                    this is not allowed any duplicate value in same table.
+                    primary key is identifier.
+    
+    2.UNIQUE KEY - unique is used to identify unique data.
+                   unique key is allowed null value but not allowed duplicate value.
+
+    3.FOREIGN KEY - foreign key is used to give reference of other table.
+                    to give foreign key one must be  have primary key of other table to connect two table.
+                    this data is correspond to primary key in other table. 

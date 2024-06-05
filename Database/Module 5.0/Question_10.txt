@@ -1,0 +1,28 @@
+Q. What is trigger and how to create a Trigger in SQL? 
+
+=> Trigger allows to the SQL actions that should be executed 
+automatically when a specific event occurs in database.
+=> It’s occurs when data has been inserted, updated or 
+deleted.
+
+=> Trigger is like a kind of history or backup data of database.
+=> For example, you can use trigger to automatically update a 
+record in one table whenever a record inserted into another 
+table.
+
+=> In simple words, Trigger is a collection of SQL statements 
+with particular names that are stored in system memory.
+
+=> Syntax of Trigger :
+
+- DELIMITER $$
+CREATE TRIGGER `TRIGGER_NAME` (AFTER | 
+BEFORE) {INSERT | UPDATE | DELETE} ON 
+`table_name` FOR EACH ROW 
+ 
+ BEGIN
+ 
+ INSERT into `table_name` SET `column_name = 
+new.column_name | old.column_name;
+ 
+ END$$

@@ -1,0 +1,27 @@
+Q. What do you understand By Data Redundancy?
+
+- Redundancy means having multiples data in database.
+
+- this occurs when database is not normalised.
+
+- Data redundancy can occur by accident but is also done for backup and recovery purposes.
+
+- Redundant data costs extra money, requires higher storage, and requires extra time to keep all the files in database as same as they are.
+
+- somwtimes it's hard for user to work due to redundant data.
+
+- redundancy makes database harder and time consuming because of multiple data and same data in same database.
+
+- redundancy also create huge problem in cae of storage in database, more redundancy means more storage required to store data.
+
+- problem occur when you've to update, delete, or insert any data to database.
+
+- it quite time taking and slow compare to other because of duplicate data.
+
+- anomaly insertion is occured, this means when you want to  insert any data but you can't insert that data in database.
+
+- same as anomaly deleting, anomaly updatating.
+
+- this are disadvantages of redundancy.
+
+- but only advantage in redundancy is secure data and data backup.

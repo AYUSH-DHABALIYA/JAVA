@@ -1,0 +1,69 @@
+Q. What is MF Cod Rule of RDBMS Systems?
+
+=> Rules :
+- Rule 0 : The Foundation Rule
+    - The database must be in relational form. So that the 
+system can handle the database through its relational 
+capabilities.
+-------------------------------------------------------------
+- Rule 1 : Information Rule 
+    - A database contains various information, and this 
+information must be stored in each cell of a table in the 
+form of rows and columns.
+-------------------------------------------------------------
+- Rule 2 : Guaranteed Access Rule
+    - This rule ensures that each data value in a relational 
+database can be uniquely identified using a combination 
+of table name, primary key, and column name.
+-------------------------------------------------------------
+- Rule 3 : Systematic Treatment of Null Values
+    - This requires that a relational database must handle 
+missing or unknown data using a systematic approach, 
+typically through the use of NULL values.
+-------------------------------------------------------------
+- Rule 4 : Active/Dynamic Online Catalog based on the 
+relational model
+    - The catalog, which contains metadata about the 
+database, must be accessible through the same query 
+language used to manipulate data.
+-------------------------------------------------------------
+- Rule 5 : Comprehensive Data SubLanguage Rule
+    - The relational database supports various languages, and 
+if we want to access the database, the language must be 
+the explicit, linear or well-defined syntax, character strings 
+and supports the comprehensive.
+-------------------------------------------------------------
+- Rule 6 : View Updating Rule
+    - All views table can be theoretically updated and must be 
+practically updated by the database systems.
+-------------------------------------------------------------
+- Rule 7 : Relational Level Operation (High-Level Insert, 
+Update and delete) Rule
+    - The system should support set-based operations that 
+can add, modify, or delete multiple records at once, rather 
+than just individual records.
+-------------------------------------------------------------
+- Rule 8 : Physical Data Independence Rule
+    - This rule ensures that changes in the physical storage or 
+structure of the database do not affect the logical access 
+to the data.
+-------------------------------------------------------------
+- Rule 9 : Logical Data Independence Rule
+    - Rule 9 states that changes to the logical structure of the 
+database (like adding or modifying tables and columns) 
+should not impact the existing applications.
+-------------------------------------------------------------
+- Rule 10 : Integrity Independence Rule
+    - The database management system must guarantee the 
+validity and integrity of the data, independent of the 
+applications using the data.
+-------------------------------------------------------------
+- Rule 11 : Distribution Independence Rule
+    - In a distributed database environment, this rule requires 
+that the distribution of data should be transparent to the 
+users.
+-------------------------------------------------------------
+- Rule 12 : Non-Subversion Rule
+    - The database system must not allow users to bypass or 
+subvert the integrity rules and constraints defined by the 
+database administrator
