@@ -79,7 +79,6 @@ public class Stocks {
             System.out.println("3. Search Stock");
             System.out.println("4. Edit Stock");
             System.out.println("5. Delete Stock");
-            System.out.println("6. Exit");
             System.out.print("Enter your choice: ");
 
             int choice = scanner.nextInt();
@@ -89,19 +88,19 @@ public class Stocks {
             {
             	addStock(scanner);
 			}
-            if (choice == 2) 
+            else if (choice == 2) 
             {
             	viewStock();
 			}
-            if (choice == 3) 
+            else if (choice == 3) 
             {
             	searchStock(scanner);
 			}
-            if (choice == 4) 
+            else if (choice == 4) 
             {
             	editStock(scanner);
 			}
-            if (choice == 5) 
+            else if (choice == 5) 
             {
             	deleteStock(scanner);
 			}
