@@ -1,0 +1,11 @@
+Q. What is save Point? How to create a save Point write a Query?
+
+=> SAVEPOINT command is used to temporarily save a 
+transaction so that you can rollback to that point whenever 
+required.
+
+=> It marks and save the current point in the processing of a 
+transaction.
+
+=> Syntax of savepoint : 
+- SAVEPOINT savepoint_name;

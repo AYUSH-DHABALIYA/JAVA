@@ -1,0 +1,14 @@
+li {
+    list-style: none;
+}
+
+.link
+{
+    
+    text-decoration: none;
+}
+.link:hover
+{
+    color: blueviolet;
+    text-decoration:underline;
+}

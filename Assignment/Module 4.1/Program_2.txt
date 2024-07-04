@@ -1,0 +1,29 @@
+ => What is OOP? List OOP concepts :
+
+    -> Full form of OOP is object oriented program.
+
+    -> OOP is based on real world examples like inheritance, encapsulation and abstract.
+
+    -> OOP is giving importance to object.
+
+    -> In OOP programming process flow is from bottom to top.
+
+    -> OOP is more secure than other language.
+
+    -> Compare to other runtime or process time in this programming is slower.
+
+    -> This programming is more complex to other.
+
+    -> OOP is all depend on object.
+
+    -> Object is accesser of class in OOP.
+
+
+ => List of OOP concepts : 
+    
+    1.Object
+    2.Class
+    3.abstract
+    4.Encapsulation
+    5.Inheritance
+    6.Polymorphism

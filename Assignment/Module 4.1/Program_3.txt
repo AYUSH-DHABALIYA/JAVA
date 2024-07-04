@@ -1,0 +1,26 @@
+What is the difference between OOP and POP?
+
+OOP - Objectoriented programming.
+POP - Procedure oriented programming.
+-----------------------------------------------
+OOP - in OOP object is main.
+POP - in POP procedure is main.
+-----------------------------------------------
+OOP - process flow is from bottom to top.
+POP - process flow is from top to bottom.
+-----------------------------------------------
+OOP - OOP is more secure than POP.
+POP - POP is less secure than OOP.
+-----------------------------------------------
+OOP - OOP process time is quite more than POP.
+POP - POP process time is less than OOP.
+-----------------------------------------------
+OOP - OOP is complex than POP.
+POP - POP is simple than OOP.
+-----------------------------------------------
+OOP - OOP is follows the object.
+POP - POP is follows the function.
+-----------------------------------------------
+OOP - in OOP accesser is object.
+POP - there is no accesser required in POP.
+-----------------------------------------------

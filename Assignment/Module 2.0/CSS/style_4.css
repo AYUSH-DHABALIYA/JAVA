@@ -1,0 +1,25 @@
+:root {
+    --main-color: #007bff; /* Default color */
+  }
+  
+  div {
+    padding: 20px;
+    background-color: var(--main-color); /* Using CSS variable defined in :root */
+  }
+  
+  div p {
+    color: white; /* Text color */
+  }
+  
+  div button {
+    background-color: var(--main-color); /* Button background color */
+    color: white; /* Button text color */
+    border: 1px solid black;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  div button:hover {
+    background-color: #0056b3; /* Button background color on hover */
+  }
+  
